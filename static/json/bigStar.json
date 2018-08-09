@@ -1,0 +1,26 @@
+[
+    {
+        "name": "chrismorgen",
+        "desc": "风骚课程学霸",
+        "level": 1,
+        "head": "../../static/img/big-star-1.jpg"
+    },
+    {
+        "name": "onemoo",
+        "desc": "神秘解疑大神",
+        "level": 2,
+        "head": "../../static/img/big-star-2.jpg"
+    },
+    {
+        "name": "天涯明月笙",
+        "desc": "智慧文章王者",
+        "level": 4,
+        "head": "../../static/img/big-star-3.jpg"
+    },
+    {
+        "name": "DataPilot",
+        "desc": "慕课第一土豪",
+        "level": 4,
+        "head": "../../static/img/big-star-4.png"
+    }
+]

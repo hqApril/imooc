@@ -1,0 +1,150 @@
+.nav {
+    height: 72px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(7,17,27,.1);
+    padding: 0 20px;
+    min-width: 1200px;
+    z-index: 100;
+    position: relative;
+}
+
+.logo {
+    float: left;
+}
+
+.logo a {
+    display: block;
+}
+
+.logo img {
+    height: 72px;
+}
+
+.nav-item {
+    margin-left: -20px;
+    display: block;
+    float: left;
+}
+
+.nav-item > li {
+    float: left;
+    height: 72px;
+    line-height: 72px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.nav-item a {
+    color: #4d555d;
+}
+
+.nav-item a:hover {
+    color: #1c1f21;
+}
+
+.icon-new {
+    position: relative;
+    display: inline-block;
+    top: -10px;
+    width: 16px;
+    height: 16px;
+    background-image: url('../img/new.png');
+}
+
+.search-area {
+    height: 48px;
+    width: 300px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 13px;
+    border-bottom: 1px solid #d9dde1;
+}
+
+.search-input {
+    height: 48px;
+    padding: 12px 0;
+    color: #71777d;
+    background-color: transparent;
+    line-height: 46px;
+    border: 0;
+    outline: 0;
+    font-size: 12px;
+    width: 260px;
+    float: left;
+}
+
+.search-all-tag {
+    float: right;
+    margin-top: 10px;
+    margin-left: -200px;
+    padding-right: 10px;
+}
+
+.search-tag {
+    float: left;
+    font-size: 12px;
+    line-height: 24px;
+    padding: 0 8px;
+    border-radius: 12px;
+    background-color: #f3f5f7;
+    color: #4d555d;
+    margin: 1px 2px 0;
+}
+
+.search-btn {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    margin: 4px 0 0 12px;
+}
+
+.search-btn:before {
+    font-family: icomoon;
+    content: '\e986';
+    color: #4d555d;
+}
+
+.nav-unlogin {
+    float: right;
+    height: 72px;
+    line-height: 72px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.nav-unlogin > li {
+    float: left;
+    height: 72px;
+    line-height: 72px;
+    text-align: center;
+    padding: 0 8px;
+}
+
+.nav-unlogin a {
+    color: #71777d;
+}
+
+.nav-unlogin a:hover {
+    color: red;
+}
+
+.shopping-car {
+    height: 36px;
+    line-height: 34px;
+    border: 1px solid #d9dde1;
+    border-radius: 18px;
+    display: inline-block;
+    padding: 0 18px;
+}
+
+.shopping-car:before {
+    font-family: icomoon;
+    content: '\e93a';
+}
+
+@media screen and (max-width: 1380px) {
+    .search-area {
+        display: none;
+    }
+}

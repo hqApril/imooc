@@ -1,0 +1,92 @@
+[
+    {
+        "teacherHead": "../../static/img/teacher-1.jpg",
+        "teacherName": "DellLee",
+        "teacherDsec": "Web前端工程师",
+        "teacherDeatail": "BAT资深前端工程师，负责数据平台技术研发。曾任去哪儿网高级前端工程师，主导去哪儿网内部前端监控系统设计，负责去哪儿网门票用户端的前端设计开发。曾任国内知名培训机构高级前端讲师，负责React，Angular，Vue，Hybrid，RN的课程讲授，具备丰富前端授课经验。对优雅编程及工程化有深度思考及见解，教会你写代码，同时帮助你把代码写的更漂亮！"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-2.jpg",
+        "teacherName": "风落几番",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "蚂蚁金服测试专家，带领团队从零建立多个大型项目安全测试，针对Web安全测试搭建了基于开源工具的安全测试架构，独立开发基于WebDriver的自动化测试平台，著有《LoadRunner性能测试巧匠训练营》。"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-3.jpg",
+        "teacherName": "大漠风",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "15年的开发经验，目前在一家创业公司担任技术总监，熟悉java、python、前端开发等，有丰富的架构设计、开发经验。喜欢clojure，爱好足球，最近在研究用python做基于机器学习的量化投资"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-1.jpg",
+        "teacherName": "DellLee",
+        "teacherDsec": "Web前端工程师",
+        "teacherDeatail": "BAT资深前端工程师，负责数据平台技术研发。曾任去哪儿网高级前端工程师，主导去哪儿网内部前端监控系统设计，负责去哪儿网门票用户端的前端设计开发。曾任国内知名培训机构高级前端讲师，负责React，Angular，Vue，Hybrid，RN的课程讲授，具备丰富前端授课经验。对优雅编程及工程化有深度思考及见解，教会你写代码，同时帮助你把代码写的更漂亮！"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-2.jpg",
+        "teacherName": "风落几番",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "蚂蚁金服测试专家，带领团队从零建立多个大型项目安全测试，针对Web安全测试搭建了基于开源工具的安全测试架构，独立开发基于WebDriver的自动化测试平台，著有《LoadRunner性能测试巧匠训练营》。"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-3.jpg",
+        "teacherName": "大漠风",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "15年的开发经验，目前在一家创业公司担任技术总监，熟悉java、python、前端开发等，有丰富的架构设计、开发经验。喜欢clojure，爱好足球，最近在研究用python做基于机器学习的量化投资"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-1.jpg",
+        "teacherName": "DellLee",
+        "teacherDsec": "Web前端工程师",
+        "teacherDeatail": "BAT资深前端工程师，负责数据平台技术研发。曾任去哪儿网高级前端工程师，主导去哪儿网内部前端监控系统设计，负责去哪儿网门票用户端的前端设计开发。曾任国内知名培训机构高级前端讲师，负责React，Angular，Vue，Hybrid，RN的课程讲授，具备丰富前端授课经验。对优雅编程及工程化有深度思考及见解，教会你写代码，同时帮助你把代码写的更漂亮！"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-2.jpg",
+        "teacherName": "风落几番",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "蚂蚁金服测试专家，带领团队从零建立多个大型项目安全测试，针对Web安全测试搭建了基于开源工具的安全测试架构，独立开发基于WebDriver的自动化测试平台，著有《LoadRunner性能测试巧匠训练营》。"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-3.jpg",
+        "teacherName": "大漠风",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "15年的开发经验，目前在一家创业公司担任技术总监，熟悉java、python、前端开发等，有丰富的架构设计、开发经验。喜欢clojure，爱好足球，最近在研究用python做基于机器学习的量化投资"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-1.jpg",
+        "teacherName": "DellLee",
+        "teacherDsec": "Web前端工程师",
+        "teacherDeatail": "BAT资深前端工程师，负责数据平台技术研发。曾任去哪儿网高级前端工程师，主导去哪儿网内部前端监控系统设计，负责去哪儿网门票用户端的前端设计开发。曾任国内知名培训机构高级前端讲师，负责React，Angular，Vue，Hybrid，RN的课程讲授，具备丰富前端授课经验。对优雅编程及工程化有深度思考及见解，教会你写代码，同时帮助你把代码写的更漂亮！"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-2.jpg",
+        "teacherName": "风落几番",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "蚂蚁金服测试专家，带领团队从零建立多个大型项目安全测试，针对Web安全测试搭建了基于开源工具的安全测试架构，独立开发基于WebDriver的自动化测试平台，著有《LoadRunner性能测试巧匠训练营》。"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-3.jpg",
+        "teacherName": "大漠风",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "15年的开发经验，目前在一家创业公司担任技术总监，熟悉java、python、前端开发等，有丰富的架构设计、开发经验。喜欢clojure，爱好足球，最近在研究用python做基于机器学习的量化投资"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-1.jpg",
+        "teacherName": "DellLee",
+        "teacherDsec": "Web前端工程师",
+        "teacherDeatail": "BAT资深前端工程师，负责数据平台技术研发。曾任去哪儿网高级前端工程师，主导去哪儿网内部前端监控系统设计，负责去哪儿网门票用户端的前端设计开发。曾任国内知名培训机构高级前端讲师，负责React，Angular，Vue，Hybrid，RN的课程讲授，具备丰富前端授课经验。对优雅编程及工程化有深度思考及见解，教会你写代码，同时帮助你把代码写的更漂亮！"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-2.jpg",
+        "teacherName": "风落几番",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "蚂蚁金服测试专家，带领团队从零建立多个大型项目安全测试，针对Web安全测试搭建了基于开源工具的安全测试架构，独立开发基于WebDriver的自动化测试平台，著有《LoadRunner性能测试巧匠训练营》。"
+    },
+    {
+        "teacherHead": "../../static/img/teacher-3.jpg",
+        "teacherName": "大漠风",
+        "teacherDsec": "全栈工程师",
+        "teacherDeatail": "15年的开发经验，目前在一家创业公司担任技术总监，熟悉java、python、前端开发等，有丰富的架构设计、开发经验。喜欢clojure，爱好足球，最近在研究用python做基于机器学习的量化投资"
+    }    
+]

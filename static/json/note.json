@@ -1,0 +1,32 @@
+[
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问javascript好学吗？",
+        "answerNum": "5"
+    },
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问python好学吗？",
+        "answerNum": "7"
+    },
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问Java好学吗？",
+        "answerNum": "8"
+    },
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问Go好学吗？",
+        "answerNum": "20"
+    },
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问c++好学吗？",
+        "answerNum": "19"
+    },
+    {
+        "noteLabel": "相关猿问",
+        "noteQuestion": "请问php好学吗？",
+        "answerNum": "18"
+    }
+]

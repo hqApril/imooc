@@ -1,0 +1,74 @@
+.footer {
+    width: 100%;
+    height: 132px;
+    min-width: 1200px;
+    background-color: #f8fafc;
+    color: #93999F;
+}
+
+.footer a {
+    color: #93999F;
+}
+
+.footer-container {
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    padding: 36px 0;
+}
+
+.footer-link {
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.footer-link > li {
+    float: left;
+    margin: 0 10px;
+}
+
+.footer-info {
+    margin-left: 30px;
+    font-size: 12px;
+    margin-top: 18px;
+}
+
+.wx-app {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 36px;
+    right: 116px;
+    text-align: center;
+}
+
+.wb-app {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 36px;
+    right: 24px;
+    text-align: center;
+}
+
+.wx-head {
+    background-image: url('../img/idx-btm.png');
+    width: 32px;
+    height: 32px;
+    background-position: -52px -221px;
+    margin: 0 auto;
+}
+
+.wb-head {
+    background-image: url('../img/idx-btm.png');
+    width: 32px;
+    height: 32px;
+    background-position: 0px -221px;
+    margin: 0 auto;
+}
+
+.wx-app > p, .wb-app > p {
+    font-size: 12px;
+    margin-top: 10px;
+}
